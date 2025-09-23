@@ -1,7 +1,5 @@
 # 🛍️ E-Commerce Website
 
-## Live Link: https://abdullahalsazib.github.io/e-commerce/
-
 A modern and responsive e-commerce website built with HTML, CSS, and JavaScript.
 
 ## ✨ Features
