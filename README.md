@@ -54,7 +54,7 @@ e-commerce/
 
 ## 👨‍💻 Author
 
-- [@abdullahalsazib](https://github.com/abdullahalsazib)
+- [@bluejade.devs]((https://github.com/bluejade-devs))
 
 ## 🤝 Contributing
 
