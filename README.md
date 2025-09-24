@@ -55,14 +55,3 @@ e-commerce/
 ## 👨‍💻 Author
 
 - [@bluejade.devs]((https://github.com/bluejade-devs))
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 📝 License
-
-This project is open source and available for use.
-
----
-⭐ Star this repo if you find it useful!
